@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## bkbilly Website
 
-You can use the [editor on GitHub](https://github.com/bkbilly/bkbilly.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Chechout my projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [AlarmPI](http://bkbilly.github.io/AlarmPI/)
+Low cost DIY Security system with support for multiple sensors.
+AlarmPI-Android
+snips-AlarmPI
 
-### Markdown
+### [Hikvision Site](https://github.com/bkbilly/Hikvision-Site)
+This Web Application is a nice UI for all your hikvision cameras. It supports Login and it is using native HTML5 without the need to install any other plugin for the client.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [WebServices List](https://github.com/bkbilly/WebServices-List)
+Web UI with a list of all the services with images and their status.
 
-```markdown
-Syntax highlighted code block
+### [Worker Exporter](https://github.com/bkbilly/worker_exporter)
+This is an Exporter for Prometheus that runs any method that is needed, like shell commands, soap requests etc... It only supports results that are integer and it will try to convert to that.
 
-# Header 1
-## Header 2
-### Header 3
+### [Asterisk Call History](https://github.com/bkbilly/Asterisk-Call-History)
+This application shows the call history of all calls from asterisk server (Master.csv).
 
-- Bulleted
-- List
+### HackRF-data
+Robot Communication 
 
-1. Numbered
-2. List
+### libHikvision
+Extract videos/photos from HikVision camera datadirs.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bkbilly/bkbilly.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### snips-asterisk_voip
+### SafeWords
+### Samba-Config
+### Pebble Watch  
+Mopidy-Player
+Tvheadend-EPG
