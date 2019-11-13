@@ -2,54 +2,55 @@
 
 Chechout my projects
 
-### AlarmPI
+# AlarmPI
 Low cost DIY Security system with support for multiple sensors.
 ![image](/images/alarmpi.png)
 
-#### AlarmPI-Android
+## AlarmPI-Android
 Android App for AlarmPI server.
 
-#### snips-AlarmPI
+## snips-AlarmPI
 Controlling the alarm state with voice commands through Snips Platform.
 
-### Hikvision Site
+# Hikvision Site
 This Web Application is a nice UI for all your hikvision cameras. It supports Login and it is using native HTML5 without the need to install any other plugin for the client.
 ![image](/images/hikvisioncameras.png)
 
-### WebServices List
+# WebServices List
 Web UI with a list of all the services with images and their status.
 ![image](/images/Services%20List.png)
 
-### Asterisk
-#### Asterisk Call History
+# Asterisk
+## Asterisk Call History
 This application shows the call history of all calls from asterisk server (Master.csv).
 ![image](/images/AsteriskHistory.png)
 
-#### snips-asterisk_voip
+## snips-asterisk_voip
 A skill for the Snips voice platform that uses linphone to make voip calls.
 
-### SafeWords
+# SafeWords
 Add One-Time Passcodes in the list and get them one by one.
 ![image](/images/safewords.PNG)
 
-### Pebble Watch
+# Pebble Watch
 Applications that uploaded on Smart Watch Store.
 
-#### Mopidy-Player
+## Mopidy-Player
 Controls from the Pebble watch the mopidy server.
 ![](images/pebbleHome.png)
 ![](images/pebblePlaying.png)
-#### Tvheadend-EPG
+## Tvheadend-EPG
 Shows the TV Program Guide from the TvHeadend server.
 ![](images/tvheadendPrograms.png)
 
-### Samba-Config
+# Samba-Config
+This is a Samba Configuration with GUI for linux which support for GTK+
 
-### Worker Exporter
+# Worker Exporter
 This is an Exporter for Prometheus that runs any method that is needed, like shell commands, soap requests etc... It only supports results that are integer and it will try to convert to that.
 
-### libHikvision
+# libHikvision
 Python Library to extract videos/photos from HikVision camera datadirs.
 
-### HackRF-data
+# HackRF-data
 Robot Communication 
