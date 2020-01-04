@@ -1,0 +1,13 @@
+---
+type: work
+layout: default
+modal-id: inaccess
+img: inaccess.png
+alt: image-alt
+project-date: Mar 2017 - Sept 2017
+position: DevOPs
+location: Athens, Greece
+description: Good health of servers, TEL, DB and monitoring/automation scripts and services
+
+
+---
