@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Athens, Greece
   - line: Lincoln, UK
+  - line: Athens, Greece
 
 # Credits content
 credits: '<a href="mailto:vasilisskoulis@gmail.com">vasilisskoulis@gmail.com</a>'
