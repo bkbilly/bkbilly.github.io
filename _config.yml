@@ -35,16 +35,18 @@ footer:
   copyright: Vasileios Koulis
   location: Location
   social: Around the Web
-  credits: Credits
+  credits: Contact
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/bkbilly
   - title: github
-    url: http://github.com/bkbilly
+    url: https://github.com/bkbilly
+  - title: github
+    url: https://gist.github.com/bkbilly
   - title: twitter
-    url: http://twitter.com/bkbilly
+    url: https://twitter.com/bkbilly
   # - title: bitbucket
   #   url: http://bitbucket.org/bkbilly
 
@@ -54,7 +56,7 @@ address:
   - line: Lincoln, UK
 
 # Credits content
-credits: 'This page was created by the Freelancer theme.'
+credits: '<a href="mailto:vasilisskoulis@gmail.com">vasilisskoulis@gmail.com</a>'
 
 # Build settings
 markdown: kramdown

@@ -2,7 +2,7 @@
 type: work
 layout: default
 modal-id: battlehack
-img: battlehack.jpg
+img: battlehack.png
 alt: image-alt
 project-date: 2015
 location: Greece & USA
