@@ -1,0 +1,21 @@
+---
+layout: default
+modal-id: asterisk
+img: asterisk.png
+alt: image-alt
+project-date: 2017 - 2019
+category: Python
+description: "Calls internal phones and routes outbound phone calls based on the diled number. The inbound calls are filtered when they are on an unwanted list, the rest a caller identification is added and then a notification with the contact details is displayed on the TV.
+
+<h3>Asterisk Call History</h3>
+This application shows the call history of all incoming/outgoing calls from asterisk server (Master.csv). <img src='img/portfolio/AsteriskHistory.png' width='100%'>
+
+<h3>snips-asterisk_voip</h3>
+A skill for the Snips voice platform that uses linphone to make voip calls.
+
+<h3>Asterisk-limitcalls</h3>
+Created a system that converts the PSTN line to VoIP with scripts that calculate the remaining free time and connect to an account to get the remaing money.
+"
+
+
+---
