@@ -7,7 +7,7 @@ alt: image-alt
 project-date: Mar 2017 - Sept 2017
 position: DevOPs
 location: Athens, Greece
-description: Good health of servers, TEL, DB and monitoring/automation scripts and services
+description: "I was responsible for the good health of the systems (Servers, TEL, DB). The department that I was working had to do with the SDBM app for Cosmote which controlled and configured the connected devices (AC units, Multimeters, ...). I created scripts and services for better monitoring and automation"
 
 
 ---
