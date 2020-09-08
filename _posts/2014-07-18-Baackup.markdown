@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: baackup
+img: baackup.png
+alt: image-alt
+project-date: 2019 - now
+category: Python
+description: Collect requested files and folders from local and remote systems. <img src="img/portfolio/baackup_screenshot.png" width='100%'>
+
+---
