@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 3dprint
+modal-id: printables
 img: 3dprint.png
 alt: image-alt
 project-date: 2019
