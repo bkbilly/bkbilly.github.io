@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: pypi
+img: pypi.png
+alt: image-alt
+project-date: 2019
+category: Python
+description: "
+<h3>libHikvision</h3>
+Python library to parse Hikvision datadirs that Hikvision IP cameras store the videos. Using this class you can view details about recordings stored in a datadir and extract video and thumbnails.
+<h3>Bayesian Networks</h3>
+Implementation for bayesian network with Enumeration, Rejection Sampling, Likelihood Weighting for the Artificial Intelligence module.
+"
+
+
+---

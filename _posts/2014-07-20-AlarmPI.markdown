@@ -5,7 +5,17 @@ img: alarmpi.png
 alt: image-alt
 project-date: 2016 - now
 category: Python
-description: Home Security System that can input sensors from GPIO, Hikvision LineCrossing and MQTT sensors. The MQTT sensors is used for the wireless sensors that I’ve build from ESP8266. Also sends notifications through MQTT, Mail, Voip and supports multiple accounts. It is designed for the Raspberry PI Zero, but can be installed on any linux device. <img src="img/portfolio/alarmpi1.png" width='100%'> <h3>AlarmPI-Android</h3>Android App for AlarmPI server. <img src="img/portfolio/alarmpi2.png" width='100%'> <h3>snips-AlarmPI</h3>Controlling the alarm state with voice commands through Snips Platform.
+description: "
+<h3>AlarmPI</h3>
+Home Security System that can input sensors from GPIO, Hikvision LineCrossing and MQTT sensors. The MQTT sensors is used for the wireless sensors that I’ve build from ESP8266. Also sends notifications through MQTT, Mail, Voip and supports multiple accounts. It is designed for the Raspberry PI Zero, but can be installed on any linux device. 
+<br><img src='img/portfolio/alarmpi1.png' width='70%'>
+
+<h3>AlarmPI-Android</h3>
+Android App for AlarmPI server.
+<br><img src='img/portfolio/alarmpi2.png' width='70%'>
+
+<h3>snips-AlarmPI</h3>
+Controlling the alarm state with voice commands through Snips Platform."
 
 
 ---
