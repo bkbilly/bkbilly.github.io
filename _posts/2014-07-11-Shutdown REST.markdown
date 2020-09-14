@@ -3,7 +3,7 @@ layout: default
 modal-id: shutdown
 img: shutdown.png
 alt: image-alt
-project-date: 2019
+project-date: 2020
 category: Python
 description: "Remotely shutdown Windows PC from Restful commands. This is used for home automation to control the state of my machine through Home Assistant.
 	<li>Uses system notifications for informing the user that the computer is scheduled for shutdown after 60 seconds.</li>

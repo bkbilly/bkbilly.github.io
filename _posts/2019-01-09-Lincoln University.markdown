@@ -28,7 +28,7 @@ One option to locate the weeds is by training a model, but this was very time co
 Master's thesis for classifying American Sign Language using Convolutional Neural Network. Collected data from Secondary and Primary sources which were combined for better accuracy. This way a large dataset was created which was combined with augmentation to have more variety. This was meant to be tested on a Pepper Robot but the social distancing made it impossible.
 <br><img src='img/portfolio/signs.jpg' width='50%'>
 
-<h3>CNN</h3>
+<h3>Cat & Dog Classifciation (CNN)</h3>
 In order to classify a set of objects, which in this case is cats and dogs, a model has to be created and to achieve that the classifier CNN (Convolutional Neural Network) was selected. The library tensorflow makes the tuning of most parameters an easy task and at the same time supports the usage of Cuda to interface with the supported GPU of the computers.<br>
 By training the model, the input images go through a number of layers. In each of them a 3x3 kernel slides over the input image and multiplies all the values. An activation function is applied to make the model nonlinear so that it can better learn. <br>
 The output is passed to max pooling which uses a 2x2 filter to slide across the output and finds the maximum value to address the issue of  overfitting. Also a dropout is used to remove a random set of neurons in that layer which helps the new data to have better effect.<br>
@@ -36,7 +36,7 @@ The next step is to pass through the fully connected layer which applies weights
 <br><img src='img/portfolio/ml_cnn.png' width='70%'>
 
 
-<h3>RNN</h3>
+<h3>Machine translation English to German (RNN)</h3>
 Uses a sequence2sequence model for creating a Machine translation from English to German using sentences which are given. The same type of model is used for multiple applications like translator, speech recognition, chatbots, video captioning and others. A sequence to sequence model can transform one sequence of words to another which might be a different size.<br>
 The sequence2sequence model consists of the encoder and the decoder which use an RNN gate to fix the problem of short-term memory of word sequence.<br>
 The encoder inputs every word into the gate and outputs a vector and a hidden state which is used for the next word. The decoder takes the encoder vector and outputs a sequence of words for the translation.

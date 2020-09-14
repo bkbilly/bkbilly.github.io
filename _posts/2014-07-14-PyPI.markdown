@@ -7,9 +7,9 @@ project-date: 2019
 category: Python
 description: "
 <h3>libHikvision</h3>
-Python library to parse Hikvision datadirs that Hikvision IP cameras store the videos. Using this class you can view details about recordings stored in a datadir and extract video and thumbnails.
+Python library to parse Hikvision datadirs that Hikvision IP cameras store videos and images. Has options to export videos from specific times and even extract the video thumbnail and even change the original resolution.
 <h3>Bayesian Networks</h3>
-Implementation for bayesian network with Enumeration, Rejection Sampling, Likelihood Weighting for the Artificial Intelligence module.
+Implementation for bayesian network with Enumeration, Rejection Sampling, Likelihood Weighting. This module is part of an assignment for the Artificial Intelligence module.
 "
 
 
