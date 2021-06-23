@@ -1,0 +1,13 @@
+---
+type: work
+layout: default
+modal-id: probotek
+img: probotek.png
+alt: image-alt
+project-date: Apr 2021
+position: Software Engineer
+location: Kallithea, Greece
+description: ""
+
+
+---
