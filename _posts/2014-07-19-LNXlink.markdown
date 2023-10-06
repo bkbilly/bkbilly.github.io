@@ -1,0 +1,22 @@
+---
+layout: default
+modal-id: lnxlink
+img: lnxlink.png
+alt: image-alt
+project-date: 2021 - now
+category: Python
+description: "
+<h3>Summary</h3>
+This is a Linux companion app for integrating your system with an external application like Home Assistant using MQTT. It's very usefull for remote controling a linux PC, receiving notifications and monitoring it's stats.
+<h3>Features</h3>
+<ul class='leftul'>
+	<li>Sensors: Automatically discover sensors that monitor and control the system.</li>
+	<li>Home Assistant: Uses MQTT Autodiscovery to create entities and shows if update is required.</li>
+	<li>No sudo required: No need to be root user to install and use, unless used on server setup.</li>
+	<li>Easily expanded: Any new module is automatically imported and custom modules can be added.</li>
+</ul>
+
+"
+
+
+---

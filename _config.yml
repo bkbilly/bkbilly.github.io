@@ -1,11 +1,11 @@
 # Site settings
 title: bkbilly's website
-email: your-email@domain.com
+email: vasilisskoulis@gmail.com
 url: https://bkbilly.github.io
-description: "Portofolio of Vasileios Koulis."
-keywords: "portofolio, bkbilly, vasileios, koulis, projects"
+description: "Portofolio of Vasilis Koulis."
+keywords: "portofolio, bkbilly, vasilis, koulis, projects"
 skills: "Software Engineer"
-meta_author: Koulis Vasileios
+meta_author: Koulis Vasilis
 
 # Google webmaster tools
 google_verify:
@@ -32,12 +32,13 @@ color:
 
 # Footer settings
 footer:
-  copyright: Vasileios Koulis
+  copyright: Vasilis Koulis
   location: Location
   social: Around the Web
   credits: Contact
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# https://fontawesome.com
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/bkbilly
@@ -47,6 +48,8 @@ social:
     url: https://gist.github.com/bkbilly
   - title: twitter
     url: https://twitter.com/bkbilly
+  - title: unity
+    url: https://www.thingiverse.com/bkbilly
   # - title: bitbucket
   #   url: http://bitbucket.org/bkbilly
 

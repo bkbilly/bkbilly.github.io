@@ -3,9 +3,12 @@ layout: default
 modal-id: asterisk
 img: asterisk.png
 alt: image-alt
-project-date: 2017 - 2020
+project-date: 2017 - 2023
 category: Python
 description: "Calls internal phones and routes outbound phone calls based on the diled number. The inbound calls are filtered when they are on an unwanted list, the rest a caller identification is added and then a notification with the contact details is displayed on the TV.
+
+<h3>Asterisk Assistant</h3>
+Have a voice assistant on Asterisk PBX Server using Google for Speach recognition and for Text-to-Speech. It can integrate with Home Assistant by recognizing the intention of the speaker.
 
 <h3>snips-asterisk_voip</h3>
 A skill for the Snips voice platform that uses linphone to make voip calls.

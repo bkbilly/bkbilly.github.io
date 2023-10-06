@@ -1,0 +1,30 @@
+---
+layout: default
+modal-id: HACS
+img: hacs.png
+alt: image-alt
+project-date: 2022 - now
+category: Python
+description: '
+<h3>Summary</h3>
+Custom integrations for Home Assistant.
+<h3>Asterisk Call Status</h3>
+This custom addon is used for monitoring the call status on the VoIP server Asterisk. The information is taken from the Asterisk Manager Interface (AMI) and publishes the call status to the MQTT server.
+<br><a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=bkbilly&repository=asterisk_call_status&category=integration"><img src="https://my.home-assistant.io/badges/hacs_repository.svg"></a>
+
+<h3>TPMS BLE</h3>
+Integrates Bluetooth LE Tire Preasure Monitoring System to Home Assistant using passive connection to get infromation from the sensors.
+<br><a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=bkbilly&repository=tpms_ble&category=integration"><img src="https://my.home-assistant.io/badges/hacs_repository.svg"></a>
+
+<h3>MQTT Mediaplayer</h3>
+A modified version of the original for the use of LNXlink that allows you to use MQTT topics to fill out the information needed for the Home Assistant Media Player Entity.
+<br><a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=bkbilly&repository=hass-mqtt-mediaplayer&category=integration"><img src="https://my.home-assistant.io/badges/hacs_repository.svg"></a>
+
+<h3>OralB BLE</h3>
+Integrates OralB Bluetooth Toothbrushes into Home Assistant. It is not used because an official integration has been released.
+<br><a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=bkbilly&repository=oralb_ble&category=integration"><img src="https://my.home-assistant.io/badges/hacs_repository.svg"></a>
+
+'
+
+
+---
